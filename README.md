@@ -161,9 +161,9 @@ json{
 QTH Configuration
 json{
   "QTHSettings": {
-    "Callsign": "WD8TA",
-    "Latitude": 39.970600793756,
-    "Longitude": -82.824398202544,
+    "Callsign": "WD-TA",
+    "Latitude": 00.970600793756,
+    "Longitude": -00.824398202544,
     "GridSquare": "EN80nx",
     "EnableGridSquareValidation": true
   }
